@@ -1,9 +1,0 @@
-plotdf
-scipy
-numpy
-pandas
-math
-plotdf
-sympy
-IPython.core.interactiveshell
-matplotlib
